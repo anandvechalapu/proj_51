@@ -15,3 +15,6 @@ C:\Amar\Debug\Apps\1\697\202305050016\proj51\proj51.Service\obj\Debug\net7.0\pro
 C:\Amar\Debug\Apps\1\697\202305050016\proj51\proj51.Service\obj\Debug\net7.0\refint\proj51.Service.dll
 C:\Amar\Debug\Apps\1\697\202305050016\proj51\proj51.Service\obj\Debug\net7.0\proj51.Service.pdb
 C:\Amar\Debug\Apps\1\697\202305050016\proj51\proj51.Service\obj\Debug\net7.0\ref\proj51.Service.dll
+C:\Amar\Debug\Apps\1\699\202305051517\proj51\proj51.Service\obj\Debug\net7.0\proj51.Service.dll
+C:\Amar\Debug\Apps\1\699\202305051517\proj51\proj51.Service\obj\Debug\net7.0\refint\proj51.Service.dll
+C:\Amar\Debug\Apps\1\699\202305051517\proj51\proj51.Service\obj\Debug\net7.0\proj51.Service.pdb

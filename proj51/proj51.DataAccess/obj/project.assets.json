@@ -491,11 +491,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Amar\\Debug\\Apps\\1\\697\\202305050016\\proj51\\proj51.DataAccess\\proj51.DataAccess.csproj",
+      "projectUniqueName": "C:\\Amar\\Debug\\Apps\\1\\699\\202305051517\\proj51\\proj51.DataAccess\\proj51.DataAccess.csproj",
       "projectName": "proj51.DataAccess",
-      "projectPath": "C:\\Amar\\Debug\\Apps\\1\\697\\202305050016\\proj51\\proj51.DataAccess\\proj51.DataAccess.csproj",
+      "projectPath": "C:\\Amar\\Debug\\Apps\\1\\699\\202305051517\\proj51\\proj51.DataAccess\\proj51.DataAccess.csproj",
       "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-      "outputPath": "C:\\Amar\\Debug\\Apps\\1\\697\\202305050016\\proj51\\proj51.DataAccess\\obj\\",
+      "outputPath": "C:\\Amar\\Debug\\Apps\\1\\699\\202305051517\\proj51\\proj51.DataAccess\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -510,8 +510,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "C:\\Amar\\Debug\\Apps\\1\\697\\202305050016\\proj51\\proj51.DTO\\proj51.DTO.csproj": {
-              "projectPath": "C:\\Amar\\Debug\\Apps\\1\\697\\202305050016\\proj51\\proj51.DTO\\proj51.DTO.csproj"
+            "C:\\Amar\\Debug\\Apps\\1\\699\\202305051517\\proj51\\proj51.DTO\\proj51.DTO.csproj": {
+              "projectPath": "C:\\Amar\\Debug\\Apps\\1\\699\\202305051517\\proj51\\proj51.DTO\\proj51.DTO.csproj"
             }
           }
         }

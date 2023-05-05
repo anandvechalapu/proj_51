@@ -10,3 +10,15 @@ C:\Amar\Debug\Apps\1\697\202305050016\proj51\proj51.DTO\obj\Debug\net7.0\proj51.
 C:\Amar\Debug\Apps\1\697\202305050016\proj51\proj51.DTO\obj\Debug\net7.0\refint\proj51.DTO.dll
 C:\Amar\Debug\Apps\1\697\202305050016\proj51\proj51.DTO\obj\Debug\net7.0\proj51.DTO.pdb
 C:\Amar\Debug\Apps\1\697\202305050016\proj51\proj51.DTO\obj\Debug\net7.0\ref\proj51.DTO.dll
+C:\Amar\Debug\Apps\1\699\202305051517\proj51\proj51.DTO\bin\Debug\net7.0\proj51.DTO.deps.json
+C:\Amar\Debug\Apps\1\699\202305051517\proj51\proj51.DTO\bin\Debug\net7.0\proj51.DTO.dll
+C:\Amar\Debug\Apps\1\699\202305051517\proj51\proj51.DTO\bin\Debug\net7.0\proj51.DTO.pdb
+C:\Amar\Debug\Apps\1\699\202305051517\proj51\proj51.DTO\obj\Debug\net7.0\proj51.DTO.csproj.AssemblyReference.cache
+C:\Amar\Debug\Apps\1\699\202305051517\proj51\proj51.DTO\obj\Debug\net7.0\proj51.DTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Amar\Debug\Apps\1\699\202305051517\proj51\proj51.DTO\obj\Debug\net7.0\proj51.DTO.AssemblyInfoInputs.cache
+C:\Amar\Debug\Apps\1\699\202305051517\proj51\proj51.DTO\obj\Debug\net7.0\proj51.DTO.AssemblyInfo.cs
+C:\Amar\Debug\Apps\1\699\202305051517\proj51\proj51.DTO\obj\Debug\net7.0\proj51.DTO.csproj.CoreCompileInputs.cache
+C:\Amar\Debug\Apps\1\699\202305051517\proj51\proj51.DTO\obj\Debug\net7.0\proj51.DTO.dll
+C:\Amar\Debug\Apps\1\699\202305051517\proj51\proj51.DTO\obj\Debug\net7.0\refint\proj51.DTO.dll
+C:\Amar\Debug\Apps\1\699\202305051517\proj51\proj51.DTO\obj\Debug\net7.0\proj51.DTO.pdb
+C:\Amar\Debug\Apps\1\699\202305051517\proj51\proj51.DTO\obj\Debug\net7.0\ref\proj51.DTO.dll
